@@ -29,5 +29,6 @@ This scraper collects product title, price, image, description, and rating, and 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Nitin-kumar-yadav/WebScraping
 cd adventure-books-scraper
+npm install
